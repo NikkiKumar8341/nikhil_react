@@ -1,0 +1,22 @@
+
+.play_button {
+	position: absolute;
+	width: 80px;
+	left: 50%;
+	top: 50%;
+	margin: -40px 0 0 -40px;
+}
+
+.bi-play-circle-fill{
+	position: absolute;
+	top: 180px;
+	left: 135px;
+	opacity: 0.6;
+}
+
+.bi-play-circle-fill:hover {
+	position: absolute;
+	top: 180px;
+	left: 135px;
+	opacity: 1;
+}
